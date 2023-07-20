@@ -1,4 +1,4 @@
-baseURL = 'https://hugo-asciidoc-blog.netlify.com/'
+baseURL = 'https://hugo-asciidoc-blog.netlify.app/'
 languageCode = 'en-us'
 title = 'My Blog using Hugo & Asciidoc'
 theme = "ananke"
